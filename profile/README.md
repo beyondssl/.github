@@ -6,16 +6,9 @@ We are passionate about today's IT challenges. At beyond SSL, we address some of
 
 ## Contact us.
 
-```
-✉️ Mail:
-sales@beyondssl.com
-
-📞 Phone:
-+49 911 495 229 35
-
-🌐 Web:
-beyondssl.com/contact
-```
+💌 Mail → [sales@beyondssl.com](mailto:sales@beyondssl.com)\
+📞 Phone → [+49 911 495 229 35](tel:+4991149522935)\
+🌐 Web → [beyondssl.com/contact](https://www.beyondssl.com/en/contact/)
 
 ## Our products - for your better and safer world.
 
@@ -38,7 +31,7 @@ FileCloud is an enterprise fileshare solution designed for businesses, schools, 
 ### 📝 ONLYOFFICE
 > Secure office and productivity apps
 
-[Visit product page →](https://www.beyondssl.com/en/products/filecloud/)
+[Visit product page →](https://www.beyondssl.com/en/products/onlyoffice/)
 
 ONLYOFFICE delivers a powerful office suite with online editors for text documents, spreadsheets and presentations that are highly compatible with Microsoft Office and OpenDocument file formats. ONLYOFFICE provides users with various editing tools and collaboration features to ensure better team workflow and seamless work with complex formatting and objects in your web solution.
 
