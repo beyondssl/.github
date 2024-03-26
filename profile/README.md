@@ -1,4 +1,4 @@
-![beyond SSL](https://repository.beyondssl.com/beyond_ssl_cover.jpg)
+![beyond SSL](https://repository.beyondssl.com/beyond_ssl_cover_x2.jpg)
 
 # Hi 👋, we are beyond SSL!
 
